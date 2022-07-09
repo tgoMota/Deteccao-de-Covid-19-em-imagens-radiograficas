@@ -1,2 +1,2 @@
-# IC-GIT
- Detecção de Covid-19 em imagens radiográficas
+# Detecção da Covid-19 em Imagens Radiográficas usando Características Não Morfológicas e Regularizadores
+ Projeto de iniciação ciêntifica.
